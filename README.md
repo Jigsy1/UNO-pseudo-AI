@@ -1,6 +1,6 @@
 # UNO-pseudo-AI
 
-One of the IRC networks I hang out on has an IRC bot on it using the script @ http://hawkee.com/snippet/5301/
+One of the IRC networks I hang out on has an IRC bot on it using the script @ http://hawkee.com/snippet/5301/ (Archive: https://archive.ph/xA4LI)
 
 Me being me, I wrote a script to play the game on my behalf in a highly efficient manner.
 
